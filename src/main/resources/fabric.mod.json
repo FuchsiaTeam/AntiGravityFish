@@ -3,13 +3,11 @@
 	"id": "agf",
 	"version": "${version}",
 	"name": "Anti Gravity Fish",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Anti Gravity Fish!",
 	"authors": [
-		"Me!"
+		"Fuchsia, Jayson.json"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/agf/icon.png",
